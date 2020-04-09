@@ -395,3 +395,29 @@ button:focus{
 	width: 45px;
 }
 /* arrow */
+
+/* Join section */
+.join__section .scnd__section__btn {
+	margin: 0 0 0 0;
+	width: auto;
+}
+.join__section .scnd__section__btn .arrow{
+	background: linear-gradient(#37A2FF, #37A2FF) left repeat-x;
+	background-size: 2px 2px;
+	margin: 10px 0 0 10px;
+}
+.join__section .scnd__section__btn .icon-next{
+	color:#37A2FF;
+	font-weight: 700;
+}
+.container {}
+.customers__container {
+	margin-top: 30px;
+}
+.customer__block {
+	width: 33.333%;
+}
+.customer__block img{
+	width: 60%;
+}
+/* Join section */
